@@ -16,3 +16,8 @@ git reset --soft <hash>
 volta pra outro commit mantendo os arquivos do atual e mantendo os arquivos no add
 git reset --mixed
 volta para o commit passado mantendo o commit atual mas não adicionado para o próximo commit.
+git diff 
+verifica as modificações feitas nos arquivos
+--name-only mostra apenas o nomes dos arquivos
+git checkout
+usado para se movimentar entre os branch
