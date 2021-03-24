@@ -21,3 +21,4 @@ verifica as modificações feitas nos arquivos
 --name-only mostra apenas o nomes dos arquivos
 git checkout
 usado para se movimentar entre os branch
+alterado e atualizado!
