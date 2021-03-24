@@ -22,3 +22,5 @@ verifica as modificações feitas nos arquivos
 git checkout
 usado para se movimentar entre os branch
 alterado e atualizado!
+git revert
+reverter os commit mantendo os commit
